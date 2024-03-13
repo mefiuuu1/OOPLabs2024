@@ -130,10 +130,14 @@
     <ClCompile Include="FirstClass.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="NumberList.cpp" />
+    <ClCompile Include="globalfct.cpp" />
+    <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FirstClass.h" />
+    <ClInclude Include="globalfct.h" />
     <ClInclude Include="NumberList.h" />
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

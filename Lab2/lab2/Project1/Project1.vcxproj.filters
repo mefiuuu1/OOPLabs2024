@@ -24,12 +24,24 @@
     <ClCompile Include="NumberList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="globalfct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FirstClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="NumberList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="globalfct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

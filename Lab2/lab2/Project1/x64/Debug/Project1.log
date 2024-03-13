@@ -1,5 +1,2 @@
 ﻿  main.cpp
-  NumberList.cpp
-  Generating Code...
-D:\oop\OOPLabs2024\Lab2\lab2\Project1\NumberList.cpp(12): warning C4715: 'NumberList::Add': not all control paths return a value
   Project1.vcxproj -> D:\oop\OOPLabs2024\Lab2\lab2\x64\Debug\Project1.exe
