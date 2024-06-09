@@ -1,0 +1,145 @@
+﻿  ComputeVowals.cpp
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,17): error C3646: 'GetName': unknown override specifier
+  (compiling source file 'ComputeVowals.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,25): error C2059: syntax error: ')'
+  (compiling source file 'ComputeVowals.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'ComputeVowals.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'ComputeVowals.cpp')
+  
+  CountLetter.cpp
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,17): error C3646: 'GetName': unknown override specifier
+  (compiling source file 'CountLetter.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,25): error C2059: syntax error: ')'
+  (compiling source file 'CountLetter.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CountLetter.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'CountLetter.cpp')
+  
+  LongestWord.cpp
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,17): error C3646: 'GetName': unknown override specifier
+  (compiling source file 'LongestWord.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,25): error C2059: syntax error: ')'
+  (compiling source file 'LongestWord.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'LongestWord.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'LongestWord.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\LongestWord.cpp(17,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,17): error C3646: 'GetName': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,25): error C2059: syntax error: ')'
+  (compiling source file 'main.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'main.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,12): error C2259: 'ComputeVowals': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\ComputeVowals.h(6,7):
+  see declaration of 'ComputeVowals'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,12):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,12):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,25): error C2259: 'ComputeVowals': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\ComputeVowals.h(6,7):
+  see declaration of 'ComputeVowals'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,25):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,25):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,41): error C2259: 'CountLetter': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\CountLetter.h(7,7):
+  see declaration of 'CountLetter'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,41):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,41):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,52): error C2259: 'CountLetter': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\CountLetter.h(7,7):
+  see declaration of 'CountLetter'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,52):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(9,52):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,11): error C2259: 'LongestWord': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\LongestWord.h(6,7):
+  see declaration of 'LongestWord'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,11):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,11):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,22): error C2259: 'LongestWord': cannot instantiate abstract class
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\LongestWord.h(6,7):
+  see declaration of 'LongestWord'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,22):
+  due to following members:
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\main.cpp(10,22):
+  'int Procesor::Compute(void)': is abstract
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  
+  Sentence.cpp
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,17): error C3646: 'GetName': unknown override specifier
+  (compiling source file 'Sentence.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,25): error C2059: syntax error: ')'
+  (compiling source file 'Sentence.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(4,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Sentence.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'Sentence.cpp')
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Sentence.cpp(6,26): error C2039: 'GetName': is not a member of 'Procesor'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(2,7):
+  see declaration of 'Procesor'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Sentence.cpp(6,51): error C2660: 'Procesor::Compute': function does not take 1 arguments
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(5,14):
+  see declaration of 'Procesor::Compute'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Sentence.cpp(6,51):
+  while trying to match the argument list '(std::string)'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Sentence.cpp(12,26): error C2039: 'GetName': is not a member of 'Procesor'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(2,7):
+  see declaration of 'Procesor'
+  
+D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Sentence.cpp(23,11): error C2039: 'GetName': is not a member of 'Procesor'
+  D:\oop\OOPLabs2024\Recapitulare Sesiune 1\Recapitulare Sesiune 1\Procesor.h(2,7):
+  see declaration of 'Procesor'
+  
+  Generating Code...
